@@ -1,6 +1,7 @@
 This repo contains the slides I use in universities, lectures and presentations.
 
 links:
+
 btk-howtohackyourai: https://www.canva.com/design/DAGEYar5aoM/xSzZtBTB8ycKFMElzlDn0w/view?utm_content=DAGEYar5aoM&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 intro-offensivesecurity: https://docs.google.com/presentation/d/e/2PACX-1vSIu9RE8XeuoT9pfxGiu7N6QJo4kWxxrc4ADZ0BMmP4pUHhiqVJlJOVAyXXCxrBrlU9AQm9l-hJ4a3Y/pub?start=false&loop=false&delayms=3000
